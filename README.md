@@ -1,1 +1,1 @@
-# pomodoro
+A fast pomodoro timer.
